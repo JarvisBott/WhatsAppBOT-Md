@@ -15,12 +15,11 @@ Rp 10.000
 1group/60hari
 Rp 20.000
 
-Axis [6283106733687]
-Telkomsel [6281334177340]
-OVO [085601928437
+Telkomsel [6281283933929]
+OVO [081283933929]
 
 tertarik? hubungi:
-@6283106733687 (Darma)
+@628128393929 (Umar)
 `.trim(),
         "listType": "PRODUCT_LIST",
         "productListInfo": {
@@ -38,9 +37,9 @@ tertarik? hubungi:
                 "productId": "4487929097985377",
                 "jpegThumbnail": baper
             },
-            "businessOwnerJid": "6283106733687@s.whatsapp.net"
+            "businessOwnerJid": "6281283933929@s.whatsapp.net"
         },
-        "footerText": "wa.me/6283106733687"
+        "footerText": "wa.me/6281283933929"
     }
     conn.sendMessage(m.chat, listMessage, 'listMessage', { quoted: m, contextInfo: { mentionedJid: conn.parseMention(listMessage.description) } })
 }
