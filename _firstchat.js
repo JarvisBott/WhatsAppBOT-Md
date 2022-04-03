@@ -16,7 +16,7 @@ handler.before = async function (m) {
 Hai ${ucapan()} *${username.replace(/@.+/, '')}* 👋
 Saya adalah Botchat WhatsApp yang berkerja dengan menggunakan bahasa javascript.
 
-${banned ? 'kamu *terbanned* kak 😕\nHubungi: wa.me/6283106733687' : 'Ada yang bisa saya bantu?'}
+${banned ? 'kamu *terbanned* kak 😕\nHubungi: wa.me/628128393929' : 'Ada yang bisa saya bantu?'}
 `.trim(), wm, null, [['Menu', '/menu']], m)
     user.pc = new Date * 1
 }
